@@ -1,0 +1,21 @@
+{
+    "items": [
+        {
+            "id":"",
+            "type":"speaking",
+            "name": "Statue",
+            "title":"Tattered Statue",
+            "content": "Welcome, my child."
+        },
+        {
+            "type":"option",
+            "options": [
+                {},{},{}
+            ]
+        },
+        {
+            "name": "SoSo",
+            "url": "http://www.SoSo.com"
+        }
+    ]
+}
